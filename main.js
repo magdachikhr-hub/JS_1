@@ -12,3 +12,13 @@ console.log(width * height);
 let area = width * height;
 
 console.log(area);
+
+let name = "magda";
+let age = 20;
+let university = "tsu";
+let hobby = "swimming";
+
+console.log(name);
+console.log(age);
+console.log(university);
+console.log(hobby);
